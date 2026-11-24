@@ -1,0 +1,1 @@
+Loading tip: if the bar has sat at 99% for ten minutes, it isn't stuck — it's rereading your code and deciding whether to laugh. Breathe. Ship it anyway.
